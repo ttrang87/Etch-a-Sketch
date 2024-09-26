@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+}
+
+.square {
+    background-color: #ffc0cb;
+    border: 2px solid black;
+}
+
+.square:hover {
+    background-color: white;
+}
